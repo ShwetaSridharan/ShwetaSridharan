@@ -1,4 +1,4 @@
-<img alt="Awesome GitHub Profile Readme" src="/github.gif"> </img>
+<img alt="Awesome GitHub Profile Readme" src="/gitrepo.gif"> </img>
 <h1 align="center">Hi 👋, I'm Shweta Sridharan </h1>
 <h3 align="center">I am a software developer-full stack</h3>
 
