@@ -1,3 +1,4 @@
+![git](https://github.com/user-attachments/assets/09867e7a-594a-47b5-b43c-17f60e875422)
 <h1 align="center">Hi 👋, I'm Shweta Sridharan</h1>
 <h3 align="center">I am a software developer-full stack</h3>
 
@@ -8,7 +9,6 @@
 
 - 💬 Ask me about **Optimizing system designs**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -18,6 +18,6 @@
 
 <img align="right" src="![Alt text](https://github.com/ShwetaSridharan/ShwetaSridharan/blob/0d50d945be158a99add5389aef75cf9723c79c23/git.png)">
 
-![git](https://github.com/user-attachments/assets/09867e7a-594a-47b5-b43c-17f60e875422)
+
 
 
