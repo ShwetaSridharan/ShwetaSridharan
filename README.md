@@ -3,9 +3,9 @@
 <h3 align="center">I am a software developer-full stack</h3>
 
 - ⚡ Coding superpowers: **React, Python, HTML and CSS.**
-- ⚡ Soft Superpowers: **Solving and Creativity.**
+- ⚡ Soft Superpowers: **Problem-Solving and Creativity.**
 
-- 🌱 I’m currently learning **Integrating Gen AI into my full stack development process.**
+- 🌱 I’m currently learning **How to Integrate Gen AI tools into my full stack development process.**
 
 - 💬 Ask me about **Optimizing system designs**
 
