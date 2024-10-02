@@ -3,7 +3,7 @@
 My name is Shweta.
 I am a software Developer.
 
-![Alt text](https://github.com/ShwetaSridharan/About/blob/00baf0d42fb4e5ce7182264b76793dd51a1098a8/githubrepo.jpg)
+![Alt text](https://github.com/ShwetaSridharan/ShwetaSridharan/blob/0d50d945be158a99add5389aef75cf9723c79c23/git.png)
 <!--
 **ShwetaSridharan/ShwetaSridharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
