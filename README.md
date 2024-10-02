@@ -1,6 +1,6 @@
 <img alt="Awesome GitHub Profile Readme" src="/gitrepo.gif"> </img>
 <h1 align="center">Hi 👋, I'm Shweta Sridharan </h1>
-<h3 align="center">I am a Software Developer-Full Stack</h3>
+<h3 align="center">I am a Software Developer-Full Stack.</h3>
 
 - ⚡ Coding superpowers: **React, Python, HTML and CSS.**
 - ⚡ Soft Superpowers: **Problem-Solving and Creativity.**
