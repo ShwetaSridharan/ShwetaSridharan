@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Sridharan</h1>
-<h3 align="center">A passionate software developer-full stack</h3>
+<h3 align="center">I am a software developer-full stack</h3>
 
 - ⚡ Coding superpowers: **React, Python, HTML and CSS.**
 - ⚡ Soft Superpowers: **Solving and Creativity.**
@@ -18,5 +18,6 @@
 
 <img align="right" src="![Alt text](https://github.com/ShwetaSridharan/ShwetaSridharan/blob/0d50d945be158a99add5389aef75cf9723c79c23/git.png)">
 
+![git](https://github.com/user-attachments/assets/09867e7a-594a-47b5-b43c-17f60e875422)
 
 
