@@ -1,5 +1,5 @@
-![git](https://github.com/user-attachments/assets/09867e7a-594a-47b5-b43c-17f60e875422)
-<h1 align="center">Hi 👋, I'm Shweta Sridharan</h1>
+
+<h1 align="center">Hi 👋, I'm Shweta Sridharan <img src="![git](https://github.com/user-attachments/assets/09867e7a-594a-47b5-b43c-17f60e875422)"></img></h1>
 <h3 align="center">I am a software developer-full stack</h3>
 
 - ⚡ Coding superpowers: **React, Python, HTML and CSS.**
